@@ -1,0 +1,17 @@
+
+# platform :ios, '9.0'
+
+target 'AxShare' do
+  
+  use_frameworks!
+  #pod 'JXCategoryView'
+
+
+  target 'AxShareTests' do
+  end
+
+  target 'AxShareUITests' do
+    # Pods for testing
+  end
+
+end
